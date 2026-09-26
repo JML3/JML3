@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name's John. I studied Computer Science in uni a few years ago but things happened, and I've been working outside the field. I am looking to get back into things and am currently focusing on Cloud dev/engineering as a potential field. Hoping to learn, grow, and create things. 
 <!--
 **JML3/JML3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
